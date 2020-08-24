@@ -1,3 +1,9 @@
+Really simple clock made with react.js from "30 days of react tutorial" (I forget which day...it might be from the blog). Plans to convert this to functional component using react hooks and add music player.
+
+**Yarn install**
+
+create-react-app stuff:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
